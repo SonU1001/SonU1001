@@ -1,0 +1,44 @@
+//  how to check even number digits in an array .
+//  code hare -----
+public class EvenNumOfDigits {
+
+    public static void main(String[] args) {
+        int[] numbers = {45, 897, 23, 64, 987, 265, 9785, 35, 45897, 357, 15987, 3581, 45};
+        int ans = findNum(numbers);
+        System.out.println("The number of Digit is : " +ans);
+
+    }
+    // find the even numbers of digits ..
+    static int findNum(int[] numbers){
+        int count = 0;
+        for (int num : numbers){
+            if (Even(num)){
+                count++;
+            }
+        }
+        return count;
+    }
+    // check the number of digit is ever or not ....
+    static  boolean Even(int num){
+        int numOfdigits = Digit(num);
+        if (numOfdigits % 2 == 0){
+            return true;
+        }
+        return false;
+
+    }
+    // check the number of digits
+    static int Digit(int num){
+        int count = 0;
+
+        while (num > 0){
+            count++;
+            num = num / 10;
+        }
+
+        return count;
+    }
+
+    
+
+}
