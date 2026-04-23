@@ -133,11 +133,18 @@
 🎖️ <b>17+ Badges Earned</b> <br>
 🥇 <b>2× Weekly League Winner</b> <br>
 
-━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
   🏆 Top 4% &nbsp; | &nbsp; 🧠 90+ Rooms &nbsp; | &nbsp; 🎖️ 17 Badges
+</p>
+
+## 🏅 TryHackMe Badges
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Sukhveer.Singh?tab=badges">
+    <img src="https://img.shields.io/badge/View%20All%20Badges-TryHackMe-red?style=for-the-badge&logo=hackthebox"/>
+  </a>
 </p>
 
 ## 🐍 Contribution Snake
