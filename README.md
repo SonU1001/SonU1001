@@ -100,10 +100,12 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SonU1001&theme=tokyonight&margin-w=10&margin-h=10"/>
+  🥇 2× Weekly League Winner (TryHackMe) <br>
+  🏆 Hacker of the Month (2×) @ Cybersapiens United LLP <br>
+  🎯 Ranked in Top 4% on TryHackMe <br>
+  🧠 Completed 90+ Rooms <br>
+  🎖️ Earned 17+ Badges
 </p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -121,19 +123,21 @@
 * 🧪 TryHackMe Labs & Real-world Practice
 
 ---
-
 ## 🧠 TryHackMe Journey
 
 <p align="center">
-  <a href="https://tryhackme.com/p/Sukhveer.Singh">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Sukhveer.Singh.png" height="120"/>
-  </a>
+━━━━━━━━━━━━━━━━━━━━━━━ <br>
+
+🏆 <b>Top 4% Globally</b> <br>
+🧠 <b>90+ Rooms Completed</b> <br>
+🎖️ <b>17+ Badges Earned</b> <br>
+🥇 <b>2× Weekly League Winner</b> <br>
+
+━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
-  🔥 Top 4% Globally &nbsp; | &nbsp;
-  🧠 90+ Rooms Completed &nbsp; | &nbsp;
-  🏆 17 Badges Earned
+  🏆 Top 4% &nbsp; | &nbsp; 🧠 90+ Rooms &nbsp; | &nbsp; 🎖️ 17 Badges
 </p>
 
 ## 🐍 Contribution Snake
