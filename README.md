@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sukhveer Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Researcher;Penetration+Tester;Bug+Bounty+Hunter;Web+App+Security+Enthusiast&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Researcher;Penetration+Tester;Bug+Bounty+Hunter;Web+Application+Security+Enthusiast&center=true&width=520&height=45">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SonU1001&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=SonU1001&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -13,13 +13,24 @@
 ## 🧠 About Me
 
 💻 Cybersecurity researcher focused on **offensive security & real-world attack surfaces**
-🔐 Specialized in **Web Application Security & Bug Hunting**
-🧪 Constantly experimenting with **automation in reconnaissance & exploitation**
+🔐 Passionate about **Web Application Security & Bug Hunting**
+⚡ Building skills in **Automation & Advanced Recon**
 
 * 🏆 Top **4% on TryHackMe**
-* 🧠 Completed **90+ rooms** | Earned **17 badges**
-* 🥇 Won **2 Weekly Leagues (1st Place)**
-* 💼 **Hacker of the Month (2x)** @ Cybersapiens United LLP
+* 🧠 Completed **90+ rooms** | 🎖️ 17 badges
+* 🥇 2x **Weekly League Winner (1st Place)**
+* 💼 2x **Hacker of the Month** @ Cybersapiens United LLP
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://sukhveersingh97997.medium.com/"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"></a>
+  <a href="https://tryhackme.com/p/Sukhveer.Singh"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme"></a>
+  <a href="https://www.linkedin.com/in/sukhveer-singh-byte128/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://x.com/singhsukhveerr"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
+</p>
 
 ---
 
@@ -63,6 +74,16 @@
 
 ---
 
+## 🚀 Featured Projects
+
+> ⚠️ (Replace with your actual repos once created)
+
+* 🔎 Recon Automation Toolkit
+* 🐞 Bug Bounty Playbook
+* 📄 Writeups & Labs
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -76,21 +97,28 @@
 
 ---
 
-## 🔬 Current Focus
+## 🏆 Achievements
 
-* 🔍 Advanced **Web Application Penetration Testing**
-* ⚡ Building **Automated Recon Pipelines**
-* 🧠 Deep dive into **Bug Bounty Methodologies**
-* 🧪 Practicing real-world labs on TryHackMe
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SonU1001&theme=tokyonight&margin-w=10&margin-h=10"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Graph
 
-* ✍️ Medium → https://sukhveersingh97997.medium.com/
-* 🧠 TryHackMe → https://tryhackme.com/p/Sukhveer.Singh
-* 💼 LinkedIn → https://www.linkedin.com/in/sukhveer-singh-byte128/
-* 🐦 Twitter/X → https://x.com/singhsukhveerr
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonU1001&theme=tokyo-night" />
+</p>
+
+---
+
+## 🔬 Current Focus
+
+* 🔍 Advanced Web Application Security Testing
+* ⚡ Building Automated Recon Pipelines
+* 🧠 Bug Bounty Methodology Improvement
+* 🧪 TryHackMe Labs & Real-world Practice
 
 ---
 
@@ -104,14 +132,14 @@
 
 ## ⚡ Philosophy
 
-> "I don’t just hunt bugs — I analyze systems, understand weaknesses, and think like an attacker."
+> "I don’t just find bugs — I understand systems, exploit logic, and think like an attacker."
 
 ---
 
-## 🚀 Goals
+## 🎯 Goals
 
-* 🎯 Become a **Top 100 Bug Bounty Hunter**
-* 🔐 Master **Advanced Exploitation Techniques**
-* ⚡ Build powerful **Security Automation Tools**
+* 🚀 Become a **Top 100 Bug Bounty Hunter**
+* 🔐 Master Advanced Exploitation Techniques
+* ⚡ Build impactful Security Tools
 
 ---
