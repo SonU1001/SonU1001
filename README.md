@@ -122,6 +122,20 @@
 
 ---
 
+## 🧠 TryHackMe Journey
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Sukhveer.Singh">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Sukhveer.Singh.png" height="120"/>
+  </a>
+</p>
+
+<p align="center">
+  🔥 Top 4% Globally &nbsp; | &nbsp;
+  🧠 90+ Rooms Completed &nbsp; | &nbsp;
+  🏆 17 Badges Earned
+</p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
