@@ -17,7 +17,7 @@
 ⚡ Building skills in **Automation & Advanced Recon**
 
 * 🏆 Top **3% on TryHackMe**
-* 🧠 Completed **100+ rooms** | 🎖️ 17 badges
+* 🧠 Completed **100+ rooms** | 🎖️ 20+ badges
 * 🥇 2x **Weekly League Winner (1st Place)**
 * 💼 2x **Hacker of the Month** @ Cybersapiens United LLP
 
@@ -104,7 +104,7 @@
   🏆 Hacker of the Month (2×) @ Cybersapiens United LLP <br>
   🎯 Ranked in Top 3% on TryHackMe <br>
   🧠 Completed 100+ Rooms <br>
-  🎖️ Earned 17+ Badges
+  🎖️ Earned 20++ Badges
 </p>
 
 ## 📈 Contribution Graph
@@ -130,13 +130,13 @@
 
 🏆 <b>Top 3% Globally</b> <br>
 🧠 <b>100+ Rooms Completed</b> <br>
-🎖️ <b>17+ Badges Earned</b> <br>
+🎖️ <b>20++ Badges Earned</b> <br>
 🥇 <b>2× Weekly League Winner</b> <br>
 
 </p>
 
 <p align="center">
-  🏆 Top 3% &nbsp; | &nbsp; 🧠 100+ Rooms &nbsp; | &nbsp; 🎖️ 17 Badges
+  🏆 Top 3% &nbsp; | &nbsp; 🧠 100+ Rooms &nbsp; | &nbsp; 🎖️ 20+ Badges
 </p>
 
 ## 🏅 TryHackMe Badges
