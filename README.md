@@ -76,9 +76,7 @@
 
 ## 🚀 Featured Projects
 
-> ⚠️ (Replace with your actual repos once created)
-
-* 🔎 Recon Automation Toolkit
+* 🔎 Recon Automation Toolkit 
 * 🐞 Bug Bounty Playbook
 * 📄 Writeups & Labs
 
