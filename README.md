@@ -16,7 +16,7 @@
 🔐 Passionate about **Web Application Security & Bug Hunting**
 ⚡ Building skills in **Automation & Advanced Recon**
 
-* 🏆 Top **4% on TryHackMe**
+* 🏆 Top **3% on TryHackMe**
 * 🧠 Completed **90+ rooms** | 🎖️ 17 badges
 * 🥇 2x **Weekly League Winner (1st Place)**
 * 💼 2x **Hacker of the Month** @ Cybersapiens United LLP
@@ -102,7 +102,7 @@
 <p align="center">
   🥇 2× Weekly League Winner (TryHackMe) <br>
   🏆 Hacker of the Month (2×) @ Cybersapiens United LLP <br>
-  🎯 Ranked in Top 4% on TryHackMe <br>
+  🎯 Ranked in Top 3% on TryHackMe <br>
   🧠 Completed 90+ Rooms <br>
   🎖️ Earned 17+ Badges
 </p>
@@ -128,7 +128,7 @@
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━ <br>
 
-🏆 <b>Top 4% Globally</b> <br>
+🏆 <b>Top 3% Globally</b> <br>
 🧠 <b>90+ Rooms Completed</b> <br>
 🎖️ <b>17+ Badges Earned</b> <br>
 🥇 <b>2× Weekly League Winner</b> <br>
@@ -136,7 +136,7 @@
 </p>
 
 <p align="center">
-  🏆 Top 4% &nbsp; | &nbsp; 🧠 90+ Rooms &nbsp; | &nbsp; 🎖️ 17 Badges
+  🏆 Top 3% &nbsp; | &nbsp; 🧠 90+ Rooms &nbsp; | &nbsp; 🎖️ 17 Badges
 </p>
 
 ## 🏅 TryHackMe Badges
